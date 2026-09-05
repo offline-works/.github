@@ -15,6 +15,7 @@ of it is a game. All of it is meant to outlast a trend cycle.
 
 - [Mittari](https://apps.apple.com/app/apple-store/id6802587264?pt=119421530&ct=github&mt=8)
 - [Tulos](https://tulos.dresende.pt/)
+- [Talo](https://talo.dresende.pt/)
 
 ## Games
 
