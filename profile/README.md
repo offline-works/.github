@@ -13,7 +13,7 @@ of it is a game. All of it is meant to outlast a trend cycle.
 
 ## Applications
 
-- [Mittari](https://apps.apple.com/app/apple-store/id6802587264?pt=119421530&ct=github&mt=8)
+- [Mittari](https://mittari.dresende.pt) [](https://apps.apple.com/app/apple-store/id6802587264?pt=119421530&ct=github&mt=8)
 - [Tulos](https://tulos.dresende.pt/)
 - [Talo](https://talo.dresende.pt/)
 
@@ -21,5 +21,5 @@ of it is a game. All of it is meant to outlast a trend cycle.
 
 - [Sikku](https://sikku.dresende.pt/)
 - [Kirjo](https://kirjo.dresende.pt/)
-- [Helmi](https://apps.apple.com/us/app/helmi-match-three/id6805095998?ct=github&mt=8)
+- [Helmi](https://helmi.dresende.pt) [](https://apps.apple.com/us/app/helmi-match-three/id6805095998?ct=github&mt=8)
 - [Cruzadas](https://cruzadas.dresende.pt/)
