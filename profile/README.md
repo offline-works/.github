@@ -20,5 +20,5 @@ of it is a game. All of it is meant to outlast a trend cycle.
 
 - [Sikku](https://sikku.dresende.pt/)
 - [Kirjo](https://kirjo.dresende.pt/)
-- [Helmi]([https://helmi.dresende.pt/](https://apps.apple.com/us/app/helmi-match-three/id6805095998))
+- [Helmi](https://apps.apple.com/us/app/helmi-match-three/id6805095998)
 - [Cruzadas](https://cruzadas.dresende.pt/)
