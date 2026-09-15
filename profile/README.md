@@ -19,7 +19,7 @@ of it is a game. All of it is meant to outlast a trend cycle.
 
 ## Games
 
-- [Sikku](https://sikku.dresende.pt/)
-- [Kirjo](https://kirjo.dresende.pt/)
+- [Sikku](https://sikku.dresende.pt/) [](https://apps.apple.com/app/apple-store/id6803914911?pt=119421530&ct=github&mt=8)
+- [Kirjo](https://kirjo.dresende.pt/) [](https://apps.apple.com/us/app/kirjo-color-sort-puzzle/id6804496471&ct=github&mt=8)
 - [Helmi](https://helmi.dresende.pt) [](https://apps.apple.com/us/app/helmi-match-three/id6805095998?ct=github&mt=8)
 - [Cruzadas](https://cruzadas.dresende.pt/)
