@@ -15,7 +15,7 @@ of it is a game. All of it is meant to outlast a trend cycle.
 
 - [Mittari](https://mittari.dresende.pt) [](https://apps.apple.com/app/apple-store/id6802587264?pt=119421530&ct=github&mt=8)
 - [Tulos](https://tulos.dresende.pt/) [](https://apps.apple.com/app/apple-store/id6803385919?pt=119421530&ct=github&mt=8)
-- [Pilvi](https://pilvi.dresende.pt/)
+- [Pilvi](https://pilvi.dresende.pt/) [](https://apps.apple.com/pt/app/apple-store/id6809998440?pt=119421530&ct=github&mt=8)
 - [Talo](https://talo.dresende.pt/)
 
 ## Games
